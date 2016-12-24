@@ -1,0 +1,127 @@
+[01-Nov-2016 00:30:30] PHP Fatal error:  Call to a member function set_rules() on a non-object in /home/precjot1/public_html/newpro100k/application/controllers/Register.php on line 35
+[01-Nov-2016 00:31:21] PHP Fatal error:  Call to a member function set_rules() on a non-object in /home/precjot1/public_html/newpro100k/application/controllers/Register.php on line 35
+[01-Nov-2016 00:37:50] PHP Fatal error:  Call to a member function set_flashdata() on a non-object in /home/precjot1/public_html/newpro100k/application/controllers/Register.php on line 43
+[01-Nov-2016 11:06:22] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'prjdb'@'localhost' (using password: YES) in /home/precjot1/public_html/newpro100k/import.php on line 6
+[01-Nov-2016 11:07:49] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'prjdb'@'localhost' (using password: YES) in /home/precjot1/public_html/newpro100k/import.php on line 6
+[01-Nov-2016 11:08:22] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/precjot1/public_html/newpro100k/import.php on line 6
+[01-Nov-2016 12:55:10] PHP Parse error:  syntax error, unexpected '{', expecting T_FUNCTION in /home/precjot1/public_html/newpro100k/application/models/User_model.php on line 5
+[01-Nov-2016 12:56:16] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::result_row() in /home/precjot1/public_html/newpro100k/application/models/User_model.php on line 24
+[01-Nov-2016 14:00:34] PHP Fatal error:  Call to a member function toArray() on a non-object in /home/precjot1/public_html/newpro100k/application/controllers/Register.php on line 15
+[01-Nov-2016 23:23:02] PHP Fatal error:  Call to a member function encode() on a non-object in /home/precjot1/public_html/newpro100k/application/controllers/Register.php on line 64
+[02-Nov-2016 02:12:10] PHP Fatal error:  Call to a member function is_Record_Exists() on a non-object in /home/precjot1/public_html/newpro100k/application/controllers/Account.php on line 13
+[02-Nov-2016 10:29:18] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/precjot1/public_html/newpro100k/system/core/Security.php on line 448
+[02-Nov-2016 11:05:56] PHP Fatal error:  Call to a member function add() on a non-object in /home/precjot1/public_html/newpro100k/application/controllers/Account.php on line 34
+[02-Nov-2016 11:10:03] PHP Fatal error:  Call to undefined function  generatebreadcrumb() in /home/precjot1/public_html/newpro100k/application/views/home/regeneratelink.php on line 6
+[02-Nov-2016 11:10:07] PHP Fatal error:  Call to undefined function  generatebreadcrumb() in /home/precjot1/public_html/newpro100k/application/views/home/regeneratelink.php on line 6
+[02-Nov-2016 14:13:25] PHP Fatal error:  Cannot redeclare Home::regeneratelink() in /home/precjot1/public_html/newpro100k/application/controllers/Home.php on line 27
+[02-Nov-2016 14:13:25] PHP Fatal error:  Class declarations may not be nested in /home/precjot1/public_html/newpro100k/system/core/Exceptions.php on line 49
+[02-Nov-2016 22:20:32] PHP Fatal error:  Call to undefined function  encryption_key() in /home/precjot1/public_html/newpro100k/application/controllers/Account.php on line 14
+[03-Nov-2016 08:06:42] PHP Fatal error:  Call to undefined method CI_Encrypt::encrypt() in /home/precjot1/public_html/newpro100k/application/controllers/Account.php on line 18
+[03-Nov-2016 09:17:40] PHP Fatal error:  Call to undefined method CI_URI::segments() in /home/precjot1/public_html/newpro100k/application/controllers/Account.php on line 13
+[03-Nov-2016 09:23:24] PHP Fatal error:  Call to undefined function  html_entity_encode() in /home/precjot1/public_html/newpro100k/application/controllers/Account.php on line 13
+[03-Nov-2016 09:23:27] PHP Fatal error:  Call to undefined function  html_entity_encode() in /home/precjot1/public_html/newpro100k/application/controllers/Account.php on line 13
+[03-Nov-2016 11:00:33] PHP Parse error:  syntax error, unexpected '$' in /home/precjot1/public_html/newpro100k/application/controllers/Register.php on line 14
+[05-Nov-2016 07:44:25] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/precjot1/public_html/newpro100k/application/config/routes.php on line 54
+[05-Nov-2016 07:44:31] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/precjot1/public_html/newpro100k/application/config/routes.php on line 54
+[05-Nov-2016 11:37:15] PHP Fatal error:  Cannot redeclare Home::dashboard() in /home/precjot1/public_html/newpro100k/application/controllers/admincp/Home.php on line 19
+[05-Nov-2016 11:37:15] PHP Fatal error:  Class declarations may not be nested in /home/precjot1/public_html/newpro100k/system/core/Exceptions.php on line 49
+[09-Nov-2016 05:17:03] PHP Fatal error:  Can't use method return value in write context in /home/precjot1/public_html/newpro100k/application/controllers/admincp/User.php on line 25
+[09-Nov-2016 05:17:03] PHP Fatal error:  Class declarations may not be nested in /home/precjot1/public_html/newpro100k/system/core/Exceptions.php on line 49
+[09-Nov-2016 05:17:08] PHP Fatal error:  Can't use method return value in write context in /home/precjot1/public_html/newpro100k/application/controllers/admincp/User.php on line 25
+[09-Nov-2016 05:17:08] PHP Fatal error:  Class declarations may not be nested in /home/precjot1/public_html/newpro100k/system/core/Exceptions.php on line 49
+[09-Nov-2016 06:18:57] PHP Fatal error:  Call to a member function load() on a non-object in /home/precjot1/public_html/newpro100k/application/views/admincp/account/index.php on line 21
+[09-Nov-2016 06:19:00] PHP Fatal error:  Call to a member function load() on a non-object in /home/precjot1/public_html/newpro100k/application/views/admincp/account/index.php on line 21
+[09-Nov-2016 06:19:29] PHP Fatal error:  Call to a member function load() on a non-object in /home/precjot1/public_html/newpro100k/application/views/admincp/account/index.php on line 21
+[09-Nov-2016 06:20:13] PHP Fatal error:  Call to a member function load() on a non-object in /home/precjot1/public_html/newpro100k/application/views/admincp/account/index.php on line 21
+[10-Nov-2016 12:48:26] PHP Fatal error:  Call to undefined function  img() in /home/precjot1/public_html/newpro100k/application/views/admincp/user/index.php on line 49
+[11-Nov-2016 12:26:09] PHP Fatal error:  Can't use method return value in write context in /home/precjot1/public_html/newpro100k/application/controllers/admincp/User.php on line 16
+[11-Nov-2016 12:26:09] PHP Fatal error:  Class declarations may not be nested in /home/precjot1/public_html/newpro100k/system/core/Exceptions.php on line 49
+[11-Nov-2016 12:26:12] PHP Fatal error:  Can't use method return value in write context in /home/precjot1/public_html/newpro100k/application/controllers/admincp/User.php on line 16
+[11-Nov-2016 12:26:12] PHP Fatal error:  Class declarations may not be nested in /home/precjot1/public_html/newpro100k/system/core/Exceptions.php on line 49
+[11-Nov-2016 14:48:27] PHP Fatal error:  Cannot use object of type stdClass as array in /home/precjot1/public_html/newpro100k/application/controllers/admincp/Action.php on line 92
+[11-Nov-2016 14:49:09] PHP Fatal error:  Cannot use object of type stdClass as array in /home/precjot1/public_html/newpro100k/application/controllers/admincp/Action.php on line 92
+[11-Nov-2016 23:45:18] PHP Fatal error:  Cannot use object of type stdClass as array in /home/precjot1/public_html/newpro100k/application/controllers/admincp/Action.php on line 95
+[11-Nov-2016 23:47:15] PHP Fatal error:  Cannot use object of type stdClass as array in /home/precjot1/public_html/newpro100k/application/controllers/admincp/Action.php on line 96
+[11-Nov-2016 23:49:40] PHP Fatal error:  Cannot use object of type stdClass as array in /home/precjot1/public_html/newpro100k/application/controllers/admincp/Action.php on line 96
+[11-Nov-2016 23:52:23] PHP Fatal error:  Cannot use object of type stdClass as array in /home/precjot1/public_html/newpro100k/application/controllers/admincp/Action.php on line 98
+[12-Nov-2016 08:25:39] PHP Fatal error:  Call to undefined function  apache_get_modules() in /home/precjot1/public_html/newpro100k/check_mod.php on line 2
+[12-Nov-2016 08:25:42] PHP Fatal error:  Call to undefined function  apache_get_modules() in /home/precjot1/public_html/newpro100k/check_mod.php on line 2
+[13-Nov-2016 20:46:06 Asia/Kolkata] PHP Fatal error:  Can't use method return value in write context in /home/precjot1/public_html/newpro100k/application/controllers/admincp/User.php on line 112
+[13-Nov-2016 20:49:08 Asia/Kolkata] PHP Fatal error:  Can't use method return value in write context in /home/precjot1/public_html/newpro100k/application/controllers/admincp/User.php on line 112
+[14-Nov-2016 01:00:39 Asia/Kolkata] PHP Fatal error:  Can't use method return value in write context in /home/precjot1/public_html/newpro100k/application/controllers/Register.php on line 48
+[14-Nov-2016 01:00:42 Asia/Kolkata] PHP Fatal error:  Can't use method return value in write context in /home/precjot1/public_html/newpro100k/application/controllers/Register.php on line 48
+[14-Nov-2016 01:01:11 Asia/Kolkata] PHP Fatal error:  Can't use method return value in write context in /home/precjot1/public_html/newpro100k/application/controllers/Register.php on line 48
+[14-Nov-2016 01:08:43 Asia/Kolkata] PHP Fatal error:  Cannot break/continue 1 level in /home/precjot1/public_html/newpro100k/application/controllers/Register.php on line 45
+[14-Nov-2016 01:08:50 Asia/Kolkata] PHP Fatal error:  Cannot break/continue 1 level in /home/precjot1/public_html/newpro100k/application/controllers/Register.php on line 45
+[14-Nov-2016 01:09:16 Asia/Kolkata] PHP Fatal error:  Call to undefined function mpty() in /home/precjot1/public_html/newpro100k/application/controllers/Register.php on line 45
+[14-Nov-2016 01:09:18 Asia/Kolkata] PHP Fatal error:  Call to undefined function mpty() in /home/precjot1/public_html/newpro100k/application/controllers/Register.php on line 45
+[15-Nov-2016 23:13:21 Asia/Kolkata] PHP Fatal error:  Call to a member function segment() on a non-object in /home/precjot1/public_html/newpro100k/application/controllers/Register.php on line 19
+[18-Nov-2016 19:54:29 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/precjot1/public_html/newpro100k/application/controllers/admincp/User.php on line 25
+[18-Nov-2016 19:55:24 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/precjot1/public_html/newpro100k/application/controllers/admincp/User.php on line 25
+[18-Nov-2016 19:55:27 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/precjot1/public_html/newpro100k/application/controllers/admincp/User.php on line 25
+[18-Nov-2016 19:56:10 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/precjot1/public_html/newpro100k/application/controllers/admincp/User.php on line 25
+[18-Nov-2016 19:56:14 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/precjot1/public_html/newpro100k/application/controllers/admincp/User.php on line 25
+[18-Nov-2016 19:56:44 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/precjot1/public_html/newpro100k/application/controllers/admincp/User.php on line 25
+[18-Nov-2016 19:56:45 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/precjot1/public_html/newpro100k/application/controllers/admincp/User.php on line 25
+[18-Nov-2016 22:02:51 Asia/Kolkata] PHP Fatal error:  Call to undefined function categoryParentChildTree() in /home/precjot1/public_html/newpro100k/application/models/Base_model.php on line 135
+[18-Nov-2016 22:02:58 Asia/Kolkata] PHP Fatal error:  Call to undefined function categoryParentChildTree() in /home/precjot1/public_html/newpro100k/application/models/Base_model.php on line 135
+[18-Nov-2016 22:03:48 Asia/Kolkata] PHP Fatal error:  Call to undefined function categoryParentChildTree() in /home/precjot1/public_html/newpro100k/application/models/Base_model.php on line 135
+[18-Nov-2016 22:05:36 Asia/Kolkata] PHP Fatal error:  Call to undefined function categoryParentChildTree() in /home/precjot1/public_html/newpro100k/application/models/Base_model.php on line 124
+[18-Nov-2016 22:13:04 Asia/Kolkata] PHP Fatal error:  Call to undefined function categoryParentChildTree() in /home/precjot1/public_html/newpro100k/application/models/Base_model.php on line 124
+[18-Nov-2016 22:16:50 Asia/Kolkata] PHP Fatal error:  Call to undefined function categoryParentChildTree() in /home/precjot1/public_html/newpro100k/application/controllers/admincp/User.php on line 46
+[18-Nov-2016 22:16:53 Asia/Kolkata] PHP Fatal error:  Call to undefined function categoryParentChildTree() in /home/precjot1/public_html/newpro100k/application/controllers/admincp/User.php on line 46
+[18-Nov-2016 22:17:15 Asia/Kolkata] PHP Fatal error:  Call to undefined function categoryparentchildtree() in /home/precjot1/public_html/newpro100k/application/controllers/admincp/User.php on line 46
+[18-Nov-2016 22:17:19 Asia/Kolkata] PHP Fatal error:  Call to undefined function categoryparentchildtree() in /home/precjot1/public_html/newpro100k/application/controllers/admincp/User.php on line 46
+[18-Nov-2016 22:17:49 Asia/Kolkata] PHP Fatal error:  Call to undefined function categoryparentchildtree() in /home/precjot1/public_html/newpro100k/application/controllers/admincp/User.php on line 46
+[18-Nov-2016 22:17:52 Asia/Kolkata] PHP Fatal error:  Call to undefined function categoryparentchildtree() in /home/precjot1/public_html/newpro100k/application/controllers/admincp/User.php on line 46
+[18-Nov-2016 22:29:39 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/precjot1/public_html/newpro100k/application/controllers/admincp/User.php on line 59
+[18-Nov-2016 22:34:17 Asia/Kolkata] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 82 bytes) in /home/precjot1/public_html/newpro100k/system/database/drivers/mysqli/mysqli_result.php on line 183
+[18-Nov-2016 22:34:34 Asia/Kolkata] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 82 bytes) in /home/precjot1/public_html/newpro100k/system/database/drivers/mysqli/mysqli_result.php on line 183
+[18-Nov-2016 22:34:50 Asia/Kolkata] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 82 bytes) in /home/precjot1/public_html/newpro100k/system/database/drivers/mysqli/mysqli_result.php on line 183
+[19-Nov-2016 16:42:31 Asia/Kolkata] PHP Fatal error:  Call to a member function load() on a non-object in /home/precjot1/public_html/newpro100k/application/views/admincp/user/index.php on line 77
+[19-Nov-2016 16:42:35 Asia/Kolkata] PHP Fatal error:  Call to a member function load() on a non-object in /home/precjot1/public_html/newpro100k/application/views/admincp/user/index.php on line 77
+[19-Nov-2016 18:15:24 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'admincp' (T_STRING) in /home/precjot1/public_html/newpro100k/application/views/admincp/user/index.php on line 98
+[19-Nov-2016 18:15:35 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'admincp' (T_STRING) in /home/precjot1/public_html/newpro100k/application/views/admincp/user/index.php on line 98
+[19-Nov-2016 18:33:30 Asia/Kolkata] PHP Fatal error:  Call to undefined method Base_model::get_all_downline() in /home/precjot1/public_html/newpro100k/application/controllers/admincp/User.php on line 24
+[19-Nov-2016 23:47:02 Asia/Kolkata] PHP Fatal error:  Can't use method return value in write context in /home/precjot1/public_html/newpro100k/application/controllers/admincp/User.php on line 23
+[19-Nov-2016 23:47:11 Asia/Kolkata] PHP Fatal error:  Can't use method return value in write context in /home/precjot1/public_html/newpro100k/application/controllers/admincp/User.php on line 23
+[19-Nov-2016 23:47:45 Asia/Kolkata] PHP Fatal error:  Can't use method return value in write context in /home/precjot1/public_html/newpro100k/application/controllers/admincp/User.php on line 23
+[20-Nov-2016 04:27:33 Asia/Kolkata] PHP Fatal error:  Call to undefined method User_model::is_Record_Exists() in /home/precjot1/public_html/newpro100k/application/controllers/admincp/User.php on line 139
+[22-Nov-2016 00:42:39 Asia/Kolkata] PHP Fatal error:  Call to undefined method Base_model::saveRecord() in /home/precjot1/public_html/newpro100k/application/controllers/admincp/Bannerurl.php on line 107
+[22-Nov-2016 01:59:02 Asia/Kolkata] PHP Fatal error:  Call to a member function get_banner_categories_lists() on a non-object in /home/precjot1/public_html/newpro100k/application/views/templates/admincp/leftsidebar.php on line 35
+[22-Nov-2016 01:59:08 Asia/Kolkata] PHP Fatal error:  Call to a member function get_banner_categories_lists() on a non-object in /home/precjot1/public_html/newpro100k/application/views/templates/admincp/leftsidebar.php on line 35
+[22-Nov-2016 01:59:55 Asia/Kolkata] PHP Fatal error:  Call to a member function get_banner_categories_lists() on a non-object in /home/precjot1/public_html/newpro100k/application/views/templates/admincp/leftsidebar.php on line 36
+[22-Nov-2016 02:02:00 Asia/Kolkata] PHP Fatal error:  Call to a member function userdata() on a non-object in /home/precjot1/public_html/newpro100k/application/controllers/admincp/Bannerurl.php on line 15
+[22-Nov-2016 02:02:03 Asia/Kolkata] PHP Fatal error:  Call to a member function get_banner_categories_lists() on a non-object in /home/precjot1/public_html/newpro100k/application/views/templates/admincp/leftsidebar.php on line 35
+[26-Nov-2016 08:42:06 Asia/Kolkata] PHP Fatal error:  Cannot access parent:: when current class scope has no parent in /home/precjot1/public_html/newpro100k/system/libraries/Customlib.php on line 9
+[26-Nov-2016 08:42:09 Asia/Kolkata] PHP Fatal error:  Cannot access parent:: when current class scope has no parent in /home/precjot1/public_html/newpro100k/system/libraries/Customlib.php on line 9
+[26-Nov-2016 08:48:16 Asia/Kolkata] PHP Fatal error:  Call to a member function get_banner_categories_lists() on a non-object in /home/precjot1/public_html/newpro100k/application/controllers/admincp/Bannerurl.php on line 19
+[26-Nov-2016 08:52:45 Asia/Kolkata] PHP Fatal error:  Call to a member function get_banner_categories_lists() on a non-object in /home/precjot1/public_html/newpro100k/application/controllers/admincp/Bannerurl.php on line 19
+[26-Nov-2016 08:52:47 Asia/Kolkata] PHP Fatal error:  Call to a member function get_banner_categories_lists() on a non-object in /home/precjot1/public_html/newpro100k/application/controllers/admincp/Bannerurl.php on line 19
+[26-Nov-2016 08:53:44 Asia/Kolkata] PHP Fatal error:  Call to a member function get_banner_categories_lists() on a non-object in /home/precjot1/public_html/newpro100k/application/controllers/admincp/Bannerurl.php on line 19
+[26-Nov-2016 08:53:46 Asia/Kolkata] PHP Fatal error:  Call to a member function get_banner_categories_lists() on a non-object in /home/precjot1/public_html/newpro100k/application/controllers/admincp/Bannerurl.php on line 19
+[26-Nov-2016 08:55:46 Asia/Kolkata] PHP Fatal error:  Call to a member function get_banner_categories_lists() on a non-object in /home/precjot1/public_html/newpro100k/application/controllers/admincp/Bannerurl.php on line 19
+[26-Nov-2016 08:56:11 Asia/Kolkata] PHP Fatal error:  Call to a member function get_banner_categories_lists() on a non-object in /home/precjot1/public_html/newpro100k/application/controllers/admincp/Bannerurl.php on line 19
+[26-Nov-2016 08:57:45 Asia/Kolkata] PHP Fatal error:  Call to a member function get_banner_categories_lists() on a non-object in /home/precjot1/public_html/newpro100k/application/controllers/admincp/Bannerurl.php on line 19
+[26-Nov-2016 09:06:53 Asia/Kolkata] PHP Fatal error:  Using $this when not in object context in /home/precjot1/public_html/newpro100k/application/helpers/custom_helper.php on line 8
+[26-Nov-2016 09:07:32 Asia/Kolkata] PHP Fatal error:  Using $this when not in object context in /home/precjot1/public_html/newpro100k/application/helpers/custom_helper.php on line 8
+[27-Nov-2016 20:48:30 Asia/Kolkata] PHP Fatal error:  Call to undefined method Base_model::saveUser() in /home/precjot1/public_html/newpro100k/application/controllers/admincp/User.php on line 337
+[29-Nov-2016 01:32:47 Asia/Kolkata] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::deleteRecord() in /home/precjot1/public_html/newpro100k/application/controllers/admincp/Bannerurl.php on line 304
+[29-Nov-2016 03:08:50 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/precjot1/public_html/newpro100k/application/controllers/admincp/Bannerurl.php on line 308
+[03-Dec-2016 13:58:03 Asia/Kolkata] PHP Fatal error:  Using $this when not in object context in /home/precjot1/public_html/newpro100k/application/helpers/custom_helper.php on line 14
+[03-Dec-2016 13:58:32 Asia/Kolkata] PHP Fatal error:  Using $this when not in object context in /home/precjot1/public_html/newpro100k/application/helpers/custom_helper.php on line 14
+[04-Dec-2016 19:01:23 Asia/Kolkata] PHP Fatal error:  Call to a member function userdata() on a non-object in /home/precjot1/public_html/newpro100k/application/hooks/Customhook.php on line 10
+[04-Dec-2016 19:09:08 Asia/Kolkata] PHP Fatal error:  Class 'CI_Controller' not found in /home/precjot1/public_html/newpro100k/system/core/CodeIgniter.php on line 366
+[04-Dec-2016 19:09:11 Asia/Kolkata] PHP Fatal error:  Class 'CI_Controller' not found in /home/precjot1/public_html/newpro100k/system/core/CodeIgniter.php on line 366
+[05-Dec-2016 22:59:06 Asia/Kolkata] PHP Fatal error:  Only variables can be passed by reference in /home/precjot1/public_html/newpro100k/application/models/admincp/Bannerurl_model.php on line 52
+[05-Dec-2016 22:59:13 Asia/Kolkata] PHP Fatal error:  Only variables can be passed by reference in /home/precjot1/public_html/newpro100k/application/models/admincp/Bannerurl_model.php on line 52
+[05-Dec-2016 22:59:55 Asia/Kolkata] PHP Fatal error:  Only variables can be passed by reference in /home/precjot1/public_html/newpro100k/application/models/admincp/Bannerurl_model.php on line 53
+[05-Dec-2016 23:00:14 Asia/Kolkata] PHP Fatal error:  Only variables can be passed by reference in /home/precjot1/public_html/newpro100k/application/models/admincp/Bannerurl_model.php on line 53
+[05-Dec-2016 23:01:14 Asia/Kolkata] PHP Fatal error:  Call to undefined method Bannerurl_model::get_bannerurl_head() in /home/precjot1/public_html/newpro100k/application/models/admincp/Bannerurl_model.php on line 47
+[05-Dec-2016 23:02:16 Asia/Kolkata] PHP Fatal error:  Only variables can be passed by reference in /home/precjot1/public_html/newpro100k/application/models/admincp/Bannerurl_model.php on line 52
+[05-Dec-2016 23:02:37 Asia/Kolkata] PHP Fatal error:  Only variables can be passed by reference in /home/precjot1/public_html/newpro100k/application/models/admincp/Bannerurl_model.php on line 53
+[05-Dec-2016 23:02:40 Asia/Kolkata] PHP Fatal error:  Only variables can be passed by reference in /home/precjot1/public_html/newpro100k/application/models/admincp/Bannerurl_model.php on line 53
+[05-Dec-2016 23:19:23 Asia/Kolkata] PHP Fatal error:  Using $this when not in object context in /home/precjot1/public_html/newpro100k/application/helpers/custom_helper.php on line 15
+[05-Dec-2016 23:19:28 Asia/Kolkata] PHP Fatal error:  Using $this when not in object context in /home/precjot1/public_html/newpro100k/application/helpers/custom_helper.php on line 15
+[05-Dec-2016 23:21:00 Asia/Kolkata] PHP Fatal error:  Call to undefined method CI_URI::segments() in /home/precjot1/public_html/newpro100k/application/helpers/custom_helper.php on line 12
+[05-Dec-2016 23:21:00 Asia/Kolkata] PHP Fatal error:  Call to undefined method CI_URI::segments() in /home/precjot1/public_html/newpro100k/application/helpers/custom_helper.php on line 12
